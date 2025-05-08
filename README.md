@@ -110,7 +110,7 @@ Implements natural interaction patterns, intelligent session timing, and safegua
 | **Anti-Detection Behavior**            | Implements realistic touch events, scrolling, delays, and in-app navigations.                                 |
 | **Offline Task Queuing (Coming Soon)** | Allows tasks to be queued and executed once the device comes back online.                                     |
 | **Custom Artist Targeting (Planned)**  | Ability to specify artist types (indie, genre-based) for selective streaming sessions.                        |
-| **Engagement Simulation**.              | Includes logic for liking songs, following artists, or adding tracks to playlists to improve session realism. |
+| **Engagement Simulation**              | Includes logic for liking songs, following artists, or adding tracks to playlists to improve session realism. |
 
 
 ### 📊 Key Stats
