@@ -2,7 +2,7 @@
 
 A high-performance automation bot for Spotify, designed for Android devices. This tool simulates natural streaming behavior by automatically interacting with the Spotify mobile app—streaming songs, discovering new music, and collecting artist insights. Built for real-device execution, it integrates with a centralized dashboard for task scheduling, streaming simulation, and monitoring.
 
-We’re the team behind Appilot. We’ve helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates or performance-based options depending on your goals.
+We’re the team behind Appilot. We are a software development agency who helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates as well as hourly rates for fixed projects.
 
 <p align="center">
   <img
