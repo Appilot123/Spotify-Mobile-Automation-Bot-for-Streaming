@@ -1,4 +1,4 @@
-<h1 align="center">Spotify Mobile Automation Bot for Straming</h1>
+<h1 align="center">Spotify Mobile Automation Bot for Streaming</h1>
 
 A high-performance automation bot for Spotify, designed for Android devices. This tool simulates natural streaming behavior by automatically interacting with the Spotify mobile app—streaming songs, discovering new music, and collecting artist insights. Built for real-device execution, it integrates with a centralized dashboard for task scheduling, streaming simulation, and monitoring.
 
